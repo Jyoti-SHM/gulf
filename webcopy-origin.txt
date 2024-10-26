@@ -1,0 +1,504 @@
+Uri: http://fonts.googleapis.com/css?family=Noto+Sans:700
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css-2
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css-1
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/notosans/v26/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\notosans\v26\o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://www.basilicohouse.com/
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\index.htm
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/about.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\about.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/contact-us.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\contact-us.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/css/animate-custom.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\animate-custom.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/animation.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\animation.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/be-slider.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\be-slider.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/be-themes-embedded.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\be-themes-embedded.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/be-themes.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\be-themes.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/chosen.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\chosen.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/contactform.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\contactform.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/flexslider.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\flexslider.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/layout.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\layout.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/prettyPhoto.css?ver=3.1.4
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/settings.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\settings.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/shortcodes.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\shortcodes.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\style.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/theme-options.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\theme-options.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/css/woocommerce.css
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\css\woocommerce.css
+Content Type: text/css
+
+Uri: http://www.basilicohouse.com/images/favicon.ico
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.basilicohouse.com/images/logo.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\images\logo.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/images/prettyPhoto/default/sprite.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/index.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\index.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/js/be-slider.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\be-slider.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/chosen/chosen.jquery.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\chosen\chosen.jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/comment-reply.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/frontend/add-to-cart.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/frontend/cart-fragments.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/frontend/chosen-frontend.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\frontend\chosen-frontend.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/frontend/woocommerce.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/gmap3.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\gmap3.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery-blockui/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery-cookie/jquery.cookie.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery-cookie\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery-ui-1.8.22.custom.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery-ui-1.8.22.custom.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery.form.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery.form.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery.prettyPhoto.min.js?ver=3.1.4
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery.themepunch.revolution.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/jquery.themepunch.tools.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/modernizr-2.6.2.min.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\modernizr-2.6.2.min.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/plugins.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/script.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\script.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/scripts.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/js/woocommerce.js
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: http://www.basilicohouse.com/deluxe.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\deluxe.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/photo-gallery.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\photo-gallery.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/poolside-suite.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\poolside-suite.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/restaurant.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\restaurant.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/queen-suite.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\queen-suite.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/rooms.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\rooms.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/studio-suite.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\studio-suite.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/tariff-packages.html
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\tariff-packages.html
+Content Type: text/html
+
+Uri: http://www.basilicohouse.com/upload/banner01.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\banner01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/banner02.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\banner02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/banner04.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\banner04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico-house.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico-house.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico01.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico02.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico04.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico05.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico06.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico07.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico08.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico08.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/basilico09.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\basilico09.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/cafe-basilico-logo.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\cafe-basilico-logo.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/cafebasilico.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\cafebasilico.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/chaicoffi-logo.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\chaicoffi-logo.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/deluxe.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\deluxe.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/farhan.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\farhan.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/folio01.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\folio01.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/gallery.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\gallery.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/goa.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\goa.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/icons/bath.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\bath.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/car.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\car.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/dining.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\dining.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/doorman.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\doorman.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/family.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\family.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/fire.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\fire.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/first-aid.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\first-aid.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/laundry.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\laundry.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/pool.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\pool.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/shampoo.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\shampoo.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/spa.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\spa.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/television.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\television.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/wi-fi.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\wi-fi.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/icons/wireless.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\icons\wireless.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/koyla-logo.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\koyla-logo.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/black.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\logo-white.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/logo.png
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\logo.png
+Content Type: image/png
+
+Uri: http://www.basilicohouse.com/upload/provisions.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\provisions.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/provisions_banner.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\provisions_banner.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room-1.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room-2.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room-3.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room-3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room-4.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room-4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room01.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room02.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/room06.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\room06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/tariff-king.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\tariff-king.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/tariff-pool.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\tariff-pool.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/tariff-queen.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\tariff-queen.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/tariff-studio.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\tariff-studio.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/testi-bg.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\testi-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/video.jpg
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\video.jpg
+Content Type: image/jpeg
+
+Uri: http://www.basilicohouse.com/upload/video.mp4
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\upload\video.mp4
+Content Type: video/mp4
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-139837518-1
+File Name: C:\Downloaded Web Sites\www.basilicohouse.com\gtag\js
+Content Type: application/javascript
+

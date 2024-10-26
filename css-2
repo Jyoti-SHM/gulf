@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/notosans/v26/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf) format('truetype');
+}
